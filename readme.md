@@ -2,6 +2,10 @@
 
 Este é um exemplo de código PHP que demonstra como realizar a validação de um formulário usando PHP e Bootstrap. O código verifica se os campos de nome, e-mail, senha e repetição de senha foram preenchidos corretamente. Se não houver erros, o usuário será redirecionado para uma página de agradecimento.
 
+## Screenshot
+
+![Screenshot](screenshot.png#vitrinedev)
+
 ## Pré-requisitos
 
 - Servidor web com suporte a PHP.
